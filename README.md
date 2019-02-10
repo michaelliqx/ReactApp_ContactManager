@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Discription
+- this is just a practice project of react.
+- the goal of this project is to build a web of contact manager
+- it's not been deployed to server yet
+
 
 ## Available Scripts
 
