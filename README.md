@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - the goal of this project is to build a web of contact manager
 - it's not been deployed to server yet
 
+you may view the web page by this link:
+https://michaelliqx.github.io/ReactApp_ContactManager/#/
+
 
 ## Available Scripts
 
