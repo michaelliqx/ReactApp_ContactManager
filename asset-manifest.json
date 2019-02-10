@@ -1,15 +1,15 @@
 {
-  "main.css": "/ReactApp_ContactManger/static/css/main.b79e2133.chunk.css",
-  "main.js": "/ReactApp_ContactManger/static/js/main.7a8271cc.chunk.js",
-  "main.js.map": "/ReactApp_ContactManger/static/js/main.7a8271cc.chunk.js.map",
-  "static/css/1.b1a264ad.chunk.css": "/ReactApp_ContactManger/static/css/1.b1a264ad.chunk.css",
-  "static/js/1.28a6b9ce.chunk.js": "/ReactApp_ContactManger/static/js/1.28a6b9ce.chunk.js",
-  "static/js/1.28a6b9ce.chunk.js.map": "/ReactApp_ContactManger/static/js/1.28a6b9ce.chunk.js.map",
-  "runtime~main.js": "/ReactApp_ContactManger/static/js/runtime~main.e157eec3.js",
-  "runtime~main.js.map": "/ReactApp_ContactManger/static/js/runtime~main.e157eec3.js.map",
-  "static/css/1.b1a264ad.chunk.css.map": "/ReactApp_ContactManger/static/css/1.b1a264ad.chunk.css.map",
-  "static/css/main.b79e2133.chunk.css.map": "/ReactApp_ContactManger/static/css/main.b79e2133.chunk.css.map",
-  "index.html": "/ReactApp_ContactManger/index.html",
-  "precache-manifest.cd3548ab63510d173f26f858cf02c7e2.js": "/ReactApp_ContactManger/precache-manifest.cd3548ab63510d173f26f858cf02c7e2.js",
-  "service-worker.js": "/ReactApp_ContactManger/service-worker.js"
+  "main.css": "/ReactApp_ContactManager/static/css/main.b79e2133.chunk.css",
+  "main.js": "/ReactApp_ContactManager/static/js/main.ca8959a9.chunk.js",
+  "main.js.map": "/ReactApp_ContactManager/static/js/main.ca8959a9.chunk.js.map",
+  "static/css/1.b1a264ad.chunk.css": "/ReactApp_ContactManager/static/css/1.b1a264ad.chunk.css",
+  "static/js/1.28a6b9ce.chunk.js": "/ReactApp_ContactManager/static/js/1.28a6b9ce.chunk.js",
+  "static/js/1.28a6b9ce.chunk.js.map": "/ReactApp_ContactManager/static/js/1.28a6b9ce.chunk.js.map",
+  "runtime~main.js": "/ReactApp_ContactManager/static/js/runtime~main.c23de470.js",
+  "runtime~main.js.map": "/ReactApp_ContactManager/static/js/runtime~main.c23de470.js.map",
+  "static/css/1.b1a264ad.chunk.css.map": "/ReactApp_ContactManager/static/css/1.b1a264ad.chunk.css.map",
+  "static/css/main.b79e2133.chunk.css.map": "/ReactApp_ContactManager/static/css/main.b79e2133.chunk.css.map",
+  "index.html": "/ReactApp_ContactManager/index.html",
+  "precache-manifest.d21937b008cd00bf33f4d2abaa898027.js": "/ReactApp_ContactManager/precache-manifest.d21937b008cd00bf33f4d2abaa898027.js",
+  "service-worker.js": "/ReactApp_ContactManager/service-worker.js"
 }
